@@ -23,7 +23,7 @@ remove the first two lines
 
   - [Step 1: Check existing Issues and Pull Requests](#step-1-check-existing-issues-and-pull-requests)
   - [Step 2: Feature? Check the roadmap & Feature Requests](#step-2-feature-check-the-roadmap-feature-requests)
-  - [Step 3: Setup your environment](#step-4-setup-your-environment)
+  - [Step 3: Setup your environment](#step-3-set-up-your-environment-or-use-gitpod)
     - [Install the software stack](#install-the-software-stack)
     - [Get the Mautic source code](#get-the-mautic-source-code)
   - [Step 4: Work on your Pull Request](#step-5-work-on-your-pull-request)
